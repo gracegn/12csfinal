@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=congratsWin
+comment0.text=\n\ Write\ a\ description\ of\ class\ congratsWin\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=congratsWin()
+comment2.params=prevLevel\ min\ stepsUsed
+comment2.target=congratsWin(int,\ int,\ int)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ prepare()
+comment5.params=
+comment5.target=void\ prepareBG()
+numComments=6

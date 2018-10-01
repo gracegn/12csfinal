@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=levels
+comment0.text=\n\ Write\ a\ description\ of\ class\ levels\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=levels()
+comment2.params=
+comment2.target=void\ countCatch()
+comment3.params=
+comment3.target=boolean\ collectedOrNot()
+comment4.params=
+comment4.target=void\ setEditF()
+comment5.params=
+comment5.target=void\ resetDiamonds()
+comment6.params=command\ xchange
+comment6.target=void\ addButton(java.lang.String,\ int)
+comment7.params=ArraySize
+comment7.target=void\ deleteButton(int)
+comment8.params=movement\ func
+comment8.target=void\ resetHero(java.util.ArrayList,\ java.util.ArrayList)
+comment9.params=xlocation\ ylocation
+comment9.target=boolean\ checkOn(int,\ int)
+numComments=10
