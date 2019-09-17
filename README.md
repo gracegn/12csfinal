@@ -1,3 +1,2 @@
-# 12csfinal
-grade 12 computer science final group project - "Uni Applications"
-
+# 12 cs final group project
+"University Applications" Game | https://www.greenfoot.org/scenarios/21858
